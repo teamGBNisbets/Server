@@ -7,8 +7,8 @@ deathlaser:
         Projectile_Amount: 10
         Projectile_Type: energy
         Projectile_Subtype: 40-0.1-NONE-0
-        Projectile_Damage: 2200
-        Delay_Between_Shots: 5
+        Projectile_Damage: 99999
+        Delay_Between_Shots: 0
         Right_Click_To_Shoot: true
     Reload:
         Enable: false
@@ -26,7 +26,7 @@ deathlaser:
         hitstop: true
         start_pos: 0
         start_y: 0
-        color: 255-0-0
+        color: 0-0-0
 kryptonianlaservision:
     Item_Information:
         Item_Name: "&4Kryptonian Laser Vision"
